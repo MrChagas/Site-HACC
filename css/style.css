@@ -844,6 +844,7 @@ img {
 }
 .home__description{
   margin-bottom: 3rem;
+  margin-left: 4.5rem;
 }
 .home__buttons{
   justify-content: initial;
